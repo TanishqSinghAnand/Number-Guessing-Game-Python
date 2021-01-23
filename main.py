@@ -12,7 +12,6 @@ while chances < 5:
 
     guess = int(input("Input your guess : "))
 
-
     if guess == number:
         print("Your guess was correct !! Congo !! :tada:")
         chances = 6
